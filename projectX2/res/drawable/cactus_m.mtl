@@ -1,0 +1,14 @@
+# Blender MTL File: 'Cactus_Barrel.blend'
+# Material Count: 1
+newmtl Mat_Cactus_Barrel_Cactus_Barrel_Texture
+Ns 37.254902
+Ka 0.000000 0.000000 0.000000
+Kd 0.582900 0.579879 0.586038
+Ks 0.100000 0.100000 0.100000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd cactus_b.bmp
+
+
+
